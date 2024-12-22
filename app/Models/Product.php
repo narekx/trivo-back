@@ -14,7 +14,6 @@ class Product extends BaseModel
         'category_id',
         'price',
         'sku',
-        'image',
         'description',
     ];
 
